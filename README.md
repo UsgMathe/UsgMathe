@@ -30,6 +30,7 @@
 ### Studying in this moment:
 <div align="start">  
   <a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"</a>
+  <a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117"</a>
 </div> 
 
 <div align="center">
