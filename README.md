@@ -26,7 +26,7 @@
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"</a>
   <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117"</a>
   <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117"</a>
-  <a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117"</a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117"</a>
 </div> 
 
 ### Studying in this moment:
