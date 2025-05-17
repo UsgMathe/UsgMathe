@@ -33,6 +33,7 @@
 <div align="start">  
   <a href="https://jestjs.io" target="_blank"><img src="https://img.shields.io/badge/-JEST-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117"</a>
   <a href="https://testing-library.com" target="_blank"><img src="https://img.shields.io/badge/-Testing%20Library-0D1117?style=for-the-badge&logo=testinglibrary&labelColor=0D1117"</a>
+  <a href="https://vitest.dev" target="_blank"><img src="https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&labelColor=0D1117"</a>
 </div> 
 
 <div align="center">
