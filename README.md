@@ -37,10 +37,14 @@
 </div> 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{UsgMathe}/count.svg" /></p> 
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{UsgMathe}/count.svg" /></p> 
 <br></div>
-  
+
+<div align="center">
+  <a href="https://app.rocketseat.com.br/me/usgmathe"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=usgmathe&type=card" width="280" alt="Matheus Gabriel Valenga's Rocket ID"/></a>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57348f&height=120&section=footer"/>
   
 <!-- ![Snake animation](https://github.com/UsgMathe/UsgMathe/blob/output/github-contribution-grid-snake.svg) -->
