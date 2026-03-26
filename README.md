@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=180&color=57348f&text=Matheus%20Gabriel%20Valenga&section=header&reversal=false&fontColor=fff&fontSize=40" alt="Matheus Gabriel Valenga" />
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus.;Sou+estudante+de+Sistemas+de+Informação.;Especialista+em+desenvolvimento+Front-End.)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:57348f,100:0d1117&text=Matheus%20Gabriel%20Valenga&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Front-End+Engineer;React+%2B+TypeScript+Specialist;Building+interfaces+that+matter;Always+evolving..." />
+</p>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UsgMathe&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=b13583&text_color=b13583&bg_color=0d1117" alt="Matheus Gabriel Valenga github stats" /> 
@@ -38,7 +41,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{UsgMathe}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=UsgMathe&style=for-the-badge&color=57348f" /></p> 
 <br></div>
 
 <div align="center">
